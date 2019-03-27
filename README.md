@@ -17,7 +17,7 @@ First create following subfolders in case the code needs them:
 - ./Parameters
 
 Then
-> run main_train.m for Q-learning and generating policies
+> run main_train.m for Q-learning and generating policies (change setting parameters for your needs)
 
 After having a policy
 > run main_evaluate.m for evaluating policies
