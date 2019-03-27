@@ -1,0 +1,16 @@
+.dropbox
+.DS_Store
+
+
+*.sublime-project
+*.sublime-workspace
+
+.idea
+
+.ipynb_checkpoints
+ghostdriver.log
+
+htmlcov
+
+*.egg-info
+.cache
