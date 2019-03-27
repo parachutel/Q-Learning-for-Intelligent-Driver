@@ -1,4 +1,4 @@
-# Q-Learning-for-Intelligent-Driver
+# Q-Learning-for-Intelligent-Driver by MATLAB
 We propose a driver modeling process and its evaluation results of an intelligent autonomous driving policy, which is obtained through reinforcement learning techniques. 
 Assuming a MDP decision making model, Q-learning method and deep Q-learning method are applied to simple but descriptive state and action spaces, so that a policy is developed within limited computational load. 
 The driver could perform reasonable maneuvers, like acceleration, deceleration or lane-changes, under usual traffic conditions on a multi-lane highway.
