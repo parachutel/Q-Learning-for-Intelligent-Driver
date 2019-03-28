@@ -13,10 +13,10 @@ ACTION_NUM = 6;
 Q_0 = zeros(MAX_STATES_NUM, ACTION_NUM);
 
 % Setting parameters:
-setting_str = 'alpha_0.2_episode_10000_w5_0.1_epsilon_decay_v2'; # experiment name
+setting_str = 'alpha_0.2_episode_10000_w5_0.1_epsilon_decay_v2'; % experiment name
 episode_limit = 10000;
 time_limit    = 10*3600; % in [seconds]
-plot_flag     = false;   % usually not plot simulation animation during training
+plot_flag     = true;    % usually not plot simulation animation during training
 epsilon       = 0.1;     % eps-greedy
 if_eps_decay  = true;    % if anneal epsilon
 decay_rate    = 5;       % greater decay_rate, faster eps decays

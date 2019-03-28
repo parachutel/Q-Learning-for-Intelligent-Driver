@@ -1,7 +1,7 @@
 clear;
 
-# Change to the policy (Q-table) name to be evaluated (.csv):
-policy_file_name = 'Q_alpha_0.2_episode_10000_w2_10_w5_0.1_epsilon_0.1.csv'
+% Change to the policy (Q-table) name to be evaluated (.csv):
+policy_file_name = 'Q_alpha_0.2_episode_10000_w2_10_w5_0.1_epsilon_0.1.csv';
 
 cd Parameters
 %%%%%%% Read Policy_1 from a Q file:
