@@ -5,8 +5,8 @@ Assuming a MDP decision making model, Q-learning method and deep Q-learning meth
 The driver could perform reasonable maneuvers, like acceleration, deceleration or lane-changes, under usual traffic conditions on a multi-lane highway.
 A traffic simulator is also construed to evaluate a given policy in terms of collision rate, average travelling speed, and lane change times. Results show the policy gets well trained under 
 reasonable time periods, where the driver acts interactively in the stochastic traffic environment, demonstrating low collision rate and obtaining higher travelling speed than the average of the environment. 
-Sample intelligent driver demonstration videos are posted on YouTube (https://youtu.be/OFRZzvPH30g).
-Project paper is available at https://www.dropbox.com/s/c2bxps5qkam95te/aa228_final.pdf?dl=0
+Sample intelligent driver demonstration videos are posted on [YouTube](https://youtu.be/OFRZzvPH30g).
+Project report is available at [here](https://github.com/parachutel/Q-Learning-for-Intelligent-Driver/blob/master/AA228%20-%20Training%20an%20Intelligent%20Driver%20on%20Highway%20Using%20Reinforcement%20Learning.pdf)
 
 Usage: 
 
